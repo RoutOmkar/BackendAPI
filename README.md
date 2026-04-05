@@ -46,6 +46,8 @@ MySQL
 Hibernate
 
 ## API Endpoints
+## API Base URL
+- Local: http://localhost:8080
 
 Register User
 
